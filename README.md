@@ -1,5 +1,10 @@
-# THREE.JS
-Animations for school kids 
+## IIT Bombay , intern 2018.
 
-To run these programs copy the whole folder and initialise with a local host in it , Make sure Python is installed. 
-Happy Coding :)
+Developed web applications using JavaScript , THREEJS and HTML.
+
+These applications provide interactive learning for kids.
+
+#### Input: parameters
+#### output: visualize the experiment
+
+
