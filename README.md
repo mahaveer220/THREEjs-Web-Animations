@@ -1,10 +1,9 @@
-## IIT Bombay , intern 2018.
+## Ekalavya , IIT Bombay , Internship 2018.
 
-Developed web applications using JavaScript , THREEJS and HTML.
+Developed Web simulation games using JavaScript, THREEJS and HTML.
 
-These applications provide interactive learning for kids.
+These applications provide interactive learning for kids in Elementary and High school by giving them a chance to perform 
+a scientific experiment virtually with varied initial parameters.
 
-#### Input: parameters
-#### output: visualize the experiment
 
 
